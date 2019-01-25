@@ -1,0 +1,17 @@
+#form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 33vw;
+    height: 70vh;;
+    background-color: #3AD886;
+}
+
+#inputsBox {
+    width: 30vw;
+}
+
+.input {
+    width: 28vw;
+}

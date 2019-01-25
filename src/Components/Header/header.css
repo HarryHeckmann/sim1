@@ -1,0 +1,16 @@
+.header {
+    background-color: #AB2A19;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    padding-left: 3vw;
+}
+
+#logo {
+    width: 5%;
+}
+
+#title {
+    color: white;
+    padding-left: 2vw;
+}

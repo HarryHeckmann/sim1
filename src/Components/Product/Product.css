@@ -1,0 +1,22 @@
+.productsCard {
+    padding-bottom: 20px;
+    border-style: solid;
+    border-width: 0px;
+    border-color: black;
+  }
+
+  .container {
+    width: 30vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2vw;
+    background-color: #E34735;
+    border-radius: 15px;
+  }
+
+  .thumbnail {
+      height: 17vh;
+      width: 15vw;
+  }

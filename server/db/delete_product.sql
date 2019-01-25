@@ -1,0 +1,1 @@
+DELETE FROM mock_data WHERE id = $1
